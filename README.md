@@ -1,4 +1,4 @@
-# Smol Video Player
+# Browser Smol Video Player
 A one page video player made with a basic tech stack for the web
 ## Description
 A simple video player that plays one video in mp4 format, with a play/pause button and a slider to control the volume. It's suposed to be minimalistic, with just enought to do it's function (play a video) without unecessary bloat.
