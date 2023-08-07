@@ -10,7 +10,9 @@ A simple video player that plays one video in mp4 format, with a play/pause butt
 ### Instaling
 1. Open the folder where you want to install it
 2. Git clone this repository to the folder
-```git clone ```
+
+```git clone https://github.com/PorthoGamesBR/browser-smol-video-player.git```
+
 3. Remove the video.mp4 file (if it's there)
 4. Put your video file in the folder and rename the file to video.mp4
 
