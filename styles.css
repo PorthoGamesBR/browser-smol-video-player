@@ -1,0 +1,41 @@
+.body {
+    text-align: center;
+}
+
+h1 {
+    width: 50vw;
+    text-align: center;
+    margin: 5vh auto;
+}
+
+.controls {
+    display: flex;
+    flex-direction: line;
+    align-items: center;
+}
+
+.volume-slider {
+    -webkit-appearance: none;
+    appearance: none;
+    background: #0f0f0f;
+}
+
+.volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    background: white;
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+    
+}
+
+.video-player {
+    background-color: grey;
+    width: max-content;
+    margin: 0 auto;
+}
+
+.play-pause #ppButton {
+    font-size: 2rem;
+}
